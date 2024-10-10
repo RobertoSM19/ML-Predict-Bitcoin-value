@@ -11,4 +11,4 @@ This is a personal project, im trying to improve my software skills because i en
 This app was built using the [Geeks for Geeks article on Bitcoin Price Prediction](https://www.geeksforgeeks.org/bitcoin-price-prediction-using-machine-learning-in-python/) as a reference.
 
 
-**Thanks for read, have a good day :)**# ML-Predict-Bitcoin-value
+**Thanks for read, have a good day :)**
